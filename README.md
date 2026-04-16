@@ -42,7 +42,7 @@ pokedex/
 
 1. Clona o repositório:
    ```bash
-   git clone https://github.com/teu-usuario/pokedex.git
+   git clone https://github.com/cludtke/PokedexApp.git
    ```
 
 2. Entra na pasta do projeto:
