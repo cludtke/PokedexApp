@@ -1,0 +1,10 @@
+@media (min-width: 960px) {
+  .box{
+    max-width: 900px !important;
+    margin: auto;
+  }
+
+  .box .row{
+    margin: auto;
+  }
+}
